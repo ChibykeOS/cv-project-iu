@@ -24,7 +24,7 @@ The solution leverages the **YOLOv8 object detection framework** to perform real
 
 ## Dataset
 
-A publicly available **bounding-box annotated face mask dataset** was used for training and validation. The dataset contains labeled facial regions corresponding to the three mask classes. Bounding-box annotations enable direct training of object detection models such as YOLOv8.
+A publicly available **bounding-box annotated face mask dataset** was used for training and validation. The dataset contains labeled facial regions corresponding to the three mask classes. Bounding-box annotations enable direct training of object detection models such as YOLOv8. Link: https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?
 
 ---
 
